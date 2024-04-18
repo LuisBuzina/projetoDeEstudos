@@ -1,0 +1,55 @@
+body {
+    background-color: #fab67788;
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+section#sectionCategorias {
+    background-color: #f37806c0;
+    display: grid;
+    justify-content: center;
+    height: auto;
+    width: auto;
+}
+
+#divCategorias {
+    align-items: center;
+}
+
+input {
+    margin-top: 10PX;
+}
+
+div {
+    align-items: center;
+}
+
+button#btnCategorias {
+    margin-top: 20px;
+    text-align: center;
+    width: 150px;
+    height: 30px;
+}
+
+#divPesquisar {
+    text-align: center;
+}
+
+section {
+    background-color: lightblue;
+    border-radius: 5px;
+}
+
+select#selectIngredientes {
+    width: 100px;
+    border-radius: 5px;
+}
+
+option {
+    text-align: center;
+}
+
+
+#adcionarReceita {
+    margin-left: 20px;
+}
